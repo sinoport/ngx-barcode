@@ -28,6 +28,6 @@
     "zone.js": "^0.8.4"
   },
   "dependencies": {
-    "jsbarcode": "^3.6.0"
+    "jsbarcode": "https://github.com/sinoport/JsBarcode/tarball/master"
   }
 }
