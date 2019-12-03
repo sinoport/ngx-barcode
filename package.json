@@ -58,6 +58,6 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "jsbarcode": "^3.8.0"
+    "jsbarcode": "https://github.com/sinoport/jsbarcode/tarball/master"
   }
 }
